@@ -1,6 +1,6 @@
 # Projeto Curriculo web
 
-## Sobre o projeto
+## 📋 Sobre o Currículo
 
 O projeto de currículo foi realizado de forma interdisciplinar, composto pelas seguintes matérias:
 * Língua Portuguesa
@@ -15,9 +15,6 @@ Curriculo criado durante as aulas de Lingua Portuguesa. Nessas aulas, a professo
 
 As minhas Hard e Soft Skills, identificadas durante a aula de Interioridades, são:
 
-
-
-Essa atividade passada pelo professor foi algo fundamental, de extrema importância pois aprender a criar um currículo será algo útil para a vida inteira.
-
-Nessa tarefa colocamos todas as informações pessoais como dados pessoais, objetivos, habilidades e competências, experiências, educação, comunicaçâo e liderança. 
-
+* Sei trabalhar muito bem em equipe.
+* Sou comunicativa.
+* Sou participativa.
