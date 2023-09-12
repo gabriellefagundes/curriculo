@@ -22,3 +22,13 @@ As minhas Hard e Soft Skills, identificadas durante a aula de Interioridades, s√
 * Sei trabalhar muito bem em equipe.
 * Sou comunicativa.
 * Sou participativa.
+
+## Tecnologias utilizadas
+
+As tecnologias utilizadas foram:
+
+* Git
+* GitHub
+* VSCODE
+* HTML5
+* CSS3
