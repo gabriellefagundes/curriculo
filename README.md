@@ -31,4 +31,3 @@ As tecnologias utilizadas foram:
 * GitHub
 * VSCODE
 * HTML5
-* CSS3
