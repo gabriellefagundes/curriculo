@@ -1,5 +1,5 @@
 # Projeto Curriculo web
-
+![](foto.png)
 ## 📋 Sobre o Currículo
 
 O projeto de currículo foi realizado de forma interdisciplinar, composto pelas seguintes matérias:
