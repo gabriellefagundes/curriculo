@@ -31,3 +31,7 @@ As tecnologias utilizadas foram:
 * GitHub
 * VSCODE
 * HTML5
+
+## ✍🏻Autores
+| [<img loading="gaby.jpeg" src="gaby.jpeg" width=115><br><sub>Larissa Gabrielle Fagundes Andrade.</sub>](https://github.com/gabriellefagundes) |
+| :---: 
